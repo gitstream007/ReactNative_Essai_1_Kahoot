@@ -1,0 +1,19 @@
+[
+        {
+            "totalCountQuestions": "05",
+            "username": "super",
+            "password": "man",
+            "isCredentialsOK": "true",
+            "isGameFinished": "false",
+            "isNewQuestion": "false",
+            "isReadyToPlay": "false",
+            "questionId": "01",
+            "finalScore": "01",
+            "questionLabel": "Quelle est la couleur du cheval blanc d'Henri 4 ? ",
+            "Answer1": "bleu",
+            "Answer2": "noir",
+            "Answer3": "orange",
+            "Answer4": "blanc",
+            "correctAnswer": "blanc"
+        }
+    ]
