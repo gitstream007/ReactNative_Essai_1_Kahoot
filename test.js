@@ -1,0 +1,91 @@
+let jsonData = {
+    "data": {
+        "question1": {
+            "totalCountQuestions": "05",
+            "username": "super",
+            "password": "man",
+            "isCredentialsOK": "true",
+            "isGameFinished": "false",
+            "isNewQuestion": "false",
+            "isReadyToPlay": "false",
+            "questionId": "01",
+            "finalScore": "01",
+            "questionLabel": "Quelle est la couleur du cheval blanc d'Henri 4 ? ",
+            "Answer1": "bleu",
+            "Answer2": "noir",
+            "Answer3": "orange",
+            "Answer4": "blanc",
+            "correctAnswer": "blanc"
+        },
+        "question2": {
+            "totalCountQuestions": "05",
+            "username": "super",
+            "password": "man",
+            "credentialsOK": "true",
+            "isGameFinished": "false",
+            "isNewQuestion": "false",
+            "isReadyToPlay": "false",
+            "questionId": "02",
+            "finalScore": "02",
+            "questionLabel": "Quelle sont les couleurs du drapeau français ? ",
+            "Answer1": "bleu blanc vert",
+            "Answer2": "bleu vert rouge",
+            "Answer3": "bleu blanc rouge",
+            "Answer4": "bleu noir vert",
+            "correctAnswer": "bleu blanc rouge"
+        },
+        "question3": {
+            "totalCountQuestions": "05",
+            "username": "super",
+            "password": "man",
+            "credentialsOK": "true",
+            "isGameFinished": "false",
+            "questionId": "03",
+            "isNewQuestion": "false",
+            "isReadyToPlay": "false",
+            "finalScore": "03",
+            "questionLabel": "5 + 5 ? ",
+            "Answer1": "55",
+            "Answer2": "15",
+            "Answer3": "12",
+            "Answer4": "10",
+            "correctAnswer": "10"
+        },
+        "question4": {
+            "totalCountQuestions": "05",
+            "username": "super",
+            "password": "man",
+            "credentialsOK": "true",
+            "isGameFinished": "false",
+            "isNewQuestion": "false",
+            "isReadyToPlay": "false",
+            "questionId": "04",
+            "finalScore": "04",
+            "questionLabel": "Dans quelle école sommes-nous cette année ? ",
+            "Answer1": "Epitruc",
+            "Answer2": "Les minets",
+            "Answer3": "L'Etnarc",
+            "Answer4": "L'Estiam",
+            "correctAnswer": "L'Estiam"
+        },
+        "question5": {
+            "totalCountQuestions": "05",
+            "username": "super",
+            "password": "man",
+            "credentialsOK": "true",
+            "isGameFinished": "false",
+            "isNewQuestion": "false",
+            "isReadyToPlay": "false",
+            "questionId": "05",
+            "finalScore": "05",
+            "questionLabel": "Sur nous nous asseyons sur une ? ",
+            "Answer1": "table",
+            "Answer2": "chaise",
+            "Answer3": "porte",
+            "Answer4": "maison",
+            "correctAnswer": "chaise"
+        }
+    }
+};
+
+console.log(jsonData.data)
